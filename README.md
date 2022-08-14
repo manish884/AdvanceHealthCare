@@ -31,4 +31,3 @@ This promotes other people Precisely new donors to donate blood for a good cause
 
 4. A smart BMI-Calculator which not only calculates your BMI but also tells your recommended weight, daily calorie requirements, a complementary diet also. Moreover 3D yoga asanas and Covid support has also been provided.
 
-
